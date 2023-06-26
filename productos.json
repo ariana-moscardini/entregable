@@ -1,0 +1,23 @@
+[
+    { "title": "funda iphone 7 plus","description": "silicon case","thumbnail": "","code": "A001","price": 1200, "stock": 50 },
+    { "title": "funda iphone 8 plus","description": "silicon case","thumbnail": "","code": "A002", "price": 1300, "stock": 50 },
+    { "title": "funda iphone x","description": "silicon case","thumbnail": "","code": "A003", "price": 2500, "stock": 50 },
+    { "title": "funda iphone xr","description": "silicon case","thumbnail": "","code": "A004", "price": 2500, "stock": 50 },
+    { "title": "funda iphone xs","description": "silicon case","thumbnail": "","code": "A005", "price": 2550, "stock": 50 },
+    { "title": "funda iphone xs max","description": "silicon case","thumbnail": "","code": "A006", "price": 2550, "stock": 50 },
+    { "title": "funda iphone 11","description": "silicon case","thumbnail": "","code": "A007", "price": 2800, "stock": 50 },
+    { "title": "funda iphone 11 pro","description": "silicon case","thumbnail": "","code": "A008", "price": 2800, "stock": 50 },
+    { "title": "funda iphone 11 pro max","description": "silicon case","thumbnail": "","code": "A009", "price": 2800, "stock": 50 },
+    { "title": "funda iphone Se","description": "silicon case","thumbnail": "","code": "A010", "price": 2800, "stock": 50 },
+    { "title": "funda iphone 12","description": "silicon case","thumbnail": "","code": "A011", "price": 3300, "stock": 50 },
+    { "title": "funda iphone 12 mini","description": "silicon case","thumbnail": "","code": "A012", "price": 3300, "stock": 50 },
+    { "title": "funda iphone 12 pro","description": "silicon case","thumbnail": "","code": "A013", "price": 3350, "stock": 50 },
+    { "title": "funda iphone 13 ","description": "silicon case","thumbnail": "","code": "A014", "price": 3000, "stock": 50 },
+    { "title": "funda iphone 13 mini","description": "silicon case","thumbnail": "","code": "A015", "price": 3000, "stock": 50 },
+    { "title": "funda iphone 13 pro","description": "silicon case","thumbnail": "","code": "A016", "price": 3500, "stock": 50 },
+    { "title": "funda iphone 13 pro max","description": "silicon case","thumbnail": "","code": "A017", "price": 3500, "stock": 50 },
+    { "title": "funda iphone 14","description": "silicon case","thumbnail": "","code": "A018","price": 5000, "stock": 50 },
+    { "title": "funda iphone 14 plus","description": "silicon case","thumbnail": "","code": "A019", "price": 5000, "stock": 50 },
+    { "title": "funda iphone 14 pro","description": "silicon case","thumbnail": "","code": "A020", "price": 5500, "stock": 50 },
+    { "title": "funda iphone 14 pro max","description": "silicon case","thumbnail": "","code": "A021", "price": 5500, "stock": 50 }
+]
